@@ -1,0 +1,23 @@
+{
+    "@@locale": "es",
+    "about": "Acerca de mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "education": "Educación",
+    "darkMode": "Modo oscuro",
+    "lightMode": "Modo claro",
+    "githubProfile": "Perfil de Github",
+    "sectionOneTittle": "Hola, soy Daniel Maldonado",
+    "sectionOneParagraph": "Me esfuerzo continuamente por encontrar las mejores prácticas para alcanzar un crecimiento constante. Mi enfoque me motiva a asumir nuevos retos con dedicación a la excelencia y a contribuir de manera significativa tanto en los proyectos como en los equipos y personas con los que trabajo.",
+    "iAmA": "Soy un",
+    "programmer": "Programador",
+    "coddingLearning": "Estudiante de programación",
+    "appDeveloper": "Desarrollador de aplicaciones",
+    "webDeveloper": "Desarrollador web",
+    "fullStackDeveloper": "Desarrollador Full Stack",
+    "checkResume": "Ver currículum",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "others": "Otros"
+}
